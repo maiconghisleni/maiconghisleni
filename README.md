@@ -13,5 +13,5 @@ Tentando conquistar um espaço neste mundo!
 
 ### Contato:
 
-<li> GMAIL - maiconghisleni@gmail.com </li>
+<li> Gmail - maiconghisleni@gmail.com </li>
 
