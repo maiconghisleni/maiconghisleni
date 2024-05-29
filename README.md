@@ -13,5 +13,5 @@ Tentando conquistar um espaço neste mundo!
 
 ### Contato:
 
-<li> Gmail - maiconghisleni@gmail.com </li>
+<li> TELEFONE - (46)999077166 </li>
 
