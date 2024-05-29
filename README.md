@@ -1,5 +1,5 @@
 ## Olá, pessoal!👋 
-Tenho 15 anos, e cursando o 1ºAno Tecnico.
+Tenho 16 anos, e cursando o 2º Ano Tecnico.
 
 
 ##  Por fora estou estudando:
