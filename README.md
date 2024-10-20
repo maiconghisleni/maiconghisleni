@@ -1,11 +1,16 @@
-## Olá, pessoal!👋 
-Tenho 16 anos, e cursando o 2º Ano Técnico.
-Estou aprendendo novos conceitos na área, para que algum dia possa exercer a função de programador!
-Mais focado em FrontEnd, ver as coisas mudando e acontecendo na tela, me deu vontade de persistir na ideia
+<h1>Olá Pessoal, Eu sou o Maicon Ghisleni!</h1> <br>
+👤 Tenho 16 anos, e cursando o 2º Ano Técnico. <br>
+💻 Estou aprendendo novos conceitos na área,<br>
+🤖 para que algum dia possa exercer a função de programador!
 
-E tentando conquistar um espaço neste mundo!
+<br>
+<br>
+<li>Mais focado em FrontEnd, ver as coisas mudando e acontecendo na tela, me deu vontade de persistir na ideia</li>
 
-### Contato:
+<li>E tentando conquistar um espaço neste mundo!</li>
 
-<li> TELEFONE - (46) 999077166 </li>
+<hr>
+
+<li>Contato telefone - (46) 999077166</li>
+
 
