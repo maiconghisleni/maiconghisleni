@@ -1,14 +1,9 @@
 ## Olá, pessoal!👋 
-Tenho 16 anos, e cursando o 2º Ano Tecnico.
+Tenho 16 anos, e cursando o 2º Ano Técnico.
+Estou aprendendo novos conceitos na área, para que algum dia possa exercer a função de programador!
+Mais focado em FrontEnd, ver as coisas mudando e acontecendo na tela, me deu vontade de persistir na ideia
 
-
-##  Por fora estou estudando:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Tentando conquistar um espaço neste mundo!
+E tentando conquistar um espaço neste mundo!
 
 ### Contato:
 
