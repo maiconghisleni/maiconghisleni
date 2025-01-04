@@ -1,16 +1,18 @@
-<h1>Olá Pessoal, Eu sou o Maicon Ghisleni!</h1> <br>
-👤 Tenho 16 anos, e cursando o 3º Ano Técnico. <br>
-💻 Estou aprendendo novos conceitos na área,<br>
+<h1>Olá Pessoal, meu nome é Maicon A. Ghisleni!</h1> <br>
+👤 Tenho 16 anos, e cursando o 3º Ano Técnico em Desenvolvimento de Sistemas. <br>
+💻 Estou aprendendo novos conceitos na área, de tecnologia,<br>
 🤖 para que algum dia possa exercer a função de programador!
 
 <br>
 <br>
-<li>Mais focado em FrontEnd, mas corro atrás para saber ambos os lados.</li>
+🌟Mais focado em FrontEnd, mas corro atrás para saber ambos os lados.</li>
 
-<li>E tentando conquistar um espaço neste mundo!</li>
+🎯Tenho como objetivo conquistar meu espaço no mundo da tecnologia e colaborar em projetos inovadores.
 
 <hr>
 
-<li>Contato Telefone - (46) 999077166</li>
+📫Contato: <br>
+📞 Telefone: +55 (46) 99907-7166<br>
+💼 LinkedIn: https://www.linkedin.com/in/maicon-ghisleni-a90b33291/
 
 
