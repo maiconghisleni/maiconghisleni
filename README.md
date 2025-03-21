@@ -1,11 +1,11 @@
 <h1>Olá Pessoal, meu nome é Maicon A. Ghisleni!</h1> <br>
-👤 Tenho 16 anos, e cursando o 3º Ano Técnico em Desenvolvimento de Sistemas. <br>
+👤 Tenho 17 anos, e cursando o 3º Ano Técnico em Desenvolvimento de Sistemas. <br>
 💻 Estou aprendendo novos conceitos na área, de tecnologia,<br>
 🤖 para que algum dia possa exercer a função de programador!
 
 <br>
 <br>
-🌟Mais focado em FrontEnd, mas corro atrás para saber ambos os lados.</li>
+🌟Aprendendo o BackEnd e o FrontEnd, me especializando e entendendo os lados da programação.</li>
 
 🎯Tenho como objetivo conquistar meu espaço no mundo da tecnologia e colaborar em projetos inovadores.
 
